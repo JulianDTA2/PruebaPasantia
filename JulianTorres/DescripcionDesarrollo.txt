@@ -1,0 +1,12 @@
+Aspectos interesantes o desafiantes
+Uno de los aspectos más interesantes fue estructurar la arquitectura del backend con Node.js y Express, logrando que las rutas y controladores se mantuvieran organizados y modulares. También fue desafiante establecer la conexión eficiente con la base de datos MySQL y definir operaciones CRUD de manera que el código fuera limpio y reutilizable.
+
+Otro reto fue diseñar una interfaz web simple pero funcional. Me enfoqué en que fuera responsiva y clara, utilizando HTML, CSS y algo de JavaScript para manejar los eventos de interacción con el backend.
+
+Dificultades técnicas y soluciones
+Inicialmente tuve problemas con la conexión a la base de datos desde el backend, debido a errores en la configuración del puerto y credenciales. Lo resolví revisando cuidadosamente el archivo .env y asegurándome de que el servidor de MySQL estuviera activo.
+
+Otra dificultad fue manejar las respuestas del servidor y mostrarlas adecuadamente en la interfaz (por ejemplo, los mensajes de éxito o error). Para solucionarlo, implementé alertas dinámicas que mejoraron la experiencia de usuario y facilitaron la retroalimentación visual.
+
+Opinión general sobre la experiencia
+La experiencia fue muy positiva. Esta prueba técnica me permitió consolidar mis conocimientos en el desarrollo full stack con JavaScript y MySQL. Disfruté especialmente del proceso de integrar todas las piezas —base de datos, backend, frontend— en un proyecto funcional. Considero que fue una excelente forma de poner en práctica habilidades clave en un entorno realista y profesional.
